@@ -1,7 +1,6 @@
 import matplotlib.pyplot as plt
 import csv
 
-
 wd = csv.reader(open('data/alturapeso.csv'))
 
 mX = []
