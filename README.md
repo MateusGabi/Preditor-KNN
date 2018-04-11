@@ -7,7 +7,7 @@ Na raiz, execute:
 $ python ./src/atividade1.py
 $ python ./src/atividade2.py
 $ python ./src/atividade3e4.py
-$ // atividade 5 não consegui desenhar
+$ python ./src/atividade5.py
 ```
 
 ## Pacotes
