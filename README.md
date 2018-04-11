@@ -1,4 +1,4 @@
-# Atividade Soma Dígito 
+# Atividade Desenha Dígito 
 
 ## Executando
 
