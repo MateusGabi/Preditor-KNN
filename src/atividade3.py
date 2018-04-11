@@ -9,8 +9,6 @@ from sklearn.grid_search import RandomizedSearchCV
 def main():
     dataset = csv.reader(open('data/alturapeso.csv'))
 
-    #
-    # see: http://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html
     x = []
     y = []
     for line in dataset:
